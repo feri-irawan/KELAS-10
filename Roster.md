@@ -79,7 +79,7 @@
 | 07:00 - 07:55 (1) | B. Indonesia  | Syahrul, S.Pd. |
 | 07:55 - 08:35 (2) | Seni Budaya   | Erniati, S.Pd. |
 | 08:35 - 09:15 (3) | Seni Budaya   | Erniati, S.Pd. |
-| 09:15 - 09:55 (4) | IPA-Biologi   | Dra. Islamiyah |
-| **09:55 - 10:10** | **Istirahat** | -              |
-| 10:10 - 10:50 (5) | IPA-Biologi   | Dra. Islamiyah |
-| 10:50             | Pulang        | -              |
+| **09:15 - 10:25** | **Istirahat** | -              |
+| 10:25 - 11:05 (4) | IPA-Biologi   | Dra. Islamiyah |
+| 11:05 - 11:45 (5) | IPA-Biologi   | Dra. Islamiyah |
+| 11:45             | Pulang        | -              |
